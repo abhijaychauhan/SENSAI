@@ -29,7 +29,7 @@ SENSAI is designed for job seekers and professionals who want to leverage techno
 
 ### Required Environment Variables
 
-DATABASE_URL= 
+DATABASE_URL= <br>
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY= 
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in 
