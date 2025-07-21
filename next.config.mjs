@@ -7,6 +7,7 @@ const nextConfig = {
         hostname: "randomuser.me",
       },
     ],
+    domains: ['randomuser.me'],
   },
 };
 
